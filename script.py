@@ -4,6 +4,7 @@ import csv
 import time
 import configparser
 
+#test push github aaaa
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.maximize_window()
 driver.get('https://shub.edu.vn/login')
